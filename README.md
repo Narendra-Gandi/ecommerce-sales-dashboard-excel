@@ -28,3 +28,6 @@ This project analyzes ecommerce sales performance using an interactive Excel das
 - T-Shirts are the most popular product category.
 - Most orders are placed through App and Website.
 - Average delivery time is around 2.4 days.
+
+## Dashboard Preview
+![Dashboard Preview](images/dashboard_preview.png)
